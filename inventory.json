@@ -1,6 +1,6 @@
 {
   "dealership": "Destination Mazda Vancouver",
-  "generated_at": "2026-10-19T11:12:05",
+  "generated_at": "2026-10-19T11:17:15",
   "vehicle_count": 24,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -297,7 +297,7 @@
       "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/new/c8b78c7b7f05.html",
       "source_url": "https://www.destinationmazda.ca/en/new-inventory/v/v/v-id39118594",
       "dealer_url": "https://www.destinationmazda.ca/en/new-inventory/v/v/v-id39118594?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-19T00:53:14",
+      "last_verified": "2026-10-19T11:15:51",
       "price": 27894.0,
       "price_currency": "CAD",
       "year": 2026,
