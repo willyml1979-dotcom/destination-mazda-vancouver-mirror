@@ -1,7 +1,7 @@
 {
   "dealership": "Destination Mazda Vancouver",
-  "generated_at": "2026-10-26T08:00:03",
-  "vehicle_count": 309,
+  "generated_at": "2026-10-26T08:51:12",
+  "vehicle_count": 307,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -191,22 +191,6 @@
     },
     {
       "name": "Mazda2026 CX-5 GS",
-      "vin": "JM3KMBHAXT0113259",
-      "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/new/029427956b0f.html",
-      "condition": "new",
-      "price": 41813.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Mazda2026 CX-5 GX",
-      "vin": "JM3KMAHA0T0121770",
-      "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/new/5e9455464507.html",
-      "condition": "new",
-      "price": 38763.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Mazda2026 CX-5 GS",
       "vin": "JM3KMBHA6T0113307",
       "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/new/39890bf17719.html",
       "condition": "new",
@@ -358,6 +342,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Mazda2026 CX-5 GS",
+      "vin": "JM3KMBHA8T0136409",
+      "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/new/6f9baca93ba4.html",
+      "condition": "new",
+      "price": 41813.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Mazda2026 CX-5 GX",
       "vin": "JM3KMAHA1T0139470",
       "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/new/39e70ec89b0a.html",
@@ -393,14 +385,6 @@
       "name": "Mazda2026 CX-5 GX",
       "vin": "JM3KMAHA3T0140670",
       "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/new/6d101d46f728.html",
-      "condition": "new",
-      "price": 38263.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Mazda2026 CX-5 GX",
-      "vin": "JM3KMAHA7T0140221",
-      "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/new/1537afa80d8d.html",
       "condition": "new",
       "price": 38263.0,
       "price_currency": "CAD"
@@ -847,14 +831,6 @@
     },
     {
       "name": "Mazda2026 CX-70 Plug-In Hybrid GT",
-      "vin": "JM3KJDHA9T1211844",
-      "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/new/910bacc7775d.html",
-      "condition": "new",
-      "price": 62743.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Mazda2026 CX-70 Plug-In Hybrid GT",
       "vin": "JM3KJDHA8T1211334",
       "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/new/fab95c1b8499.html",
       "condition": "new",
@@ -939,6 +915,14 @@
       "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/new/b3d6dcc7f9b0.html",
       "condition": "new",
       "price": 65143.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2026 CX-5 GX",
+      "vin": "JM3KMAHA7T0187233",
+      "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/new/ee41261ffe6e.html",
+      "condition": "new",
+      "price": 38663.0,
       "price_currency": "CAD"
     },
     {
@@ -1070,6 +1054,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Mazda2026 CX-5 GS",
+      "vin": "JM3KMBHAXT0177057",
+      "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/new/ecc408c62cfb.html",
+      "condition": "new",
+      "price": 41713.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Mazda2026 CX-5 GT",
       "vin": "JM3KMCHAXT0185276",
       "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/new/9574742dfde2.html",
@@ -1163,14 +1155,6 @@
       "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/new/783f4df6a102.html",
       "condition": "new",
       "price": 49313.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Mazda2026 CX-5 GX",
-      "vin": "JM3KMAHA3T0198469",
-      "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/new/398e9a05c7fe.html",
-      "condition": "new",
-      "price": 38663.0,
       "price_currency": "CAD"
     },
     {
@@ -1443,14 +1427,6 @@
       "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/new/b58b3746ab10.html",
       "condition": "new",
       "price": 56943.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Mazda2026 CX-5 GT",
-      "vin": "JM3KMDHA3T0224067",
-      "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/new/ea5781b4b3b0.html",
-      "condition": "new",
-      "price": 49413.0,
       "price_currency": "CAD"
     },
     {
@@ -2316,6 +2292,17 @@
       "model": "GT",
       "condition": "new",
       "price": 38994.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Mazda3 Sport GX",
+      "vin": "JM1BPAKL1T1890329",
+      "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/new/7796fe28a150.html",
+      "year": 2026,
+      "make": "Mazda3",
+      "model": "Sport GX",
+      "condition": "new",
+      "price": 28644.0,
       "price_currency": "CAD"
     },
     {
