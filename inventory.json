@@ -1,7 +1,7 @@
 {
   "dealership": "Destination Mazda Vancouver",
-  "generated_at": "2026-10-26T00:24:19",
-  "vehicle_count": 308,
+  "generated_at": "2026-10-26T08:00:03",
+  "vehicle_count": 309,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -1813,17 +1813,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Toyota Venza",
-      "vin": "JTEAAAAH3NJ093864",
-      "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/used/625a577793a7.html",
-      "year": 2022,
-      "make": "Toyota",
-      "model": "Venza",
-      "condition": "used",
-      "price": 33995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Honda Civic Sedan",
       "vin": "2HGFE2F57PH107791",
       "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/used/4ba4d185b721.html",
@@ -1909,6 +1898,17 @@
       "model": "CX-50",
       "condition": "used",
       "price": 36495.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Mazda CX-30",
+      "vin": "3MVDMBDY8RM665738",
+      "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/used/624cace2012a.html",
+      "year": 2024,
+      "make": "Mazda",
+      "model": "CX-30",
+      "condition": "used",
+      "price": 31439.0,
       "price_currency": "CAD"
     },
     {
@@ -2085,6 +2085,17 @@
       "model": "Mazda3",
       "condition": "used",
       "price": 26995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Mazda CX-90 MHEV",
+      "vin": "JM3KKEHC9S1216190",
+      "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/used/c35f71b08393.html",
+      "year": 2025,
+      "make": "Mazda",
+      "model": "CX-90 MHEV",
+      "condition": "used",
+      "price": 50995.0,
       "price_currency": "CAD"
     },
     {
