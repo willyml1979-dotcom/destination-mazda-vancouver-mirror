@@ -1,7 +1,7 @@
 {
   "dealership": "Destination Mazda Vancouver",
-  "generated_at": "2026-11-17T09:19:38",
-  "vehicle_count": 315,
+  "generated_at": "2026-11-17T10:49:33",
+  "vehicle_count": 317,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -194,7 +194,7 @@
       "vin": "JM3KMAHAXT0108783",
       "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/new/1378356bf069.html",
       "condition": "new",
-      "price": 38582.0,
+      "price": 38694.0,
       "price_currency": "CAD"
     },
     {
@@ -202,7 +202,7 @@
       "vin": "JM3KMAHA4T0102011",
       "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/new/a709afc8213d.html",
       "condition": "new",
-      "price": 38582.0,
+      "price": 38694.0,
       "price_currency": "CAD"
     },
     {
@@ -210,7 +210,7 @@
       "vin": "JM3KMBHA3T0109893",
       "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/new/3e6cbd301063.html",
       "condition": "new",
-      "price": 41332.0,
+      "price": 41444.0,
       "price_currency": "CAD"
     },
     {
@@ -218,7 +218,7 @@
       "vin": "JM3KKDHA1T1386523",
       "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/new/3db2bb3e49b7.html",
       "condition": "new",
-      "price": 63057.0,
+      "price": 63094.0,
       "price_currency": "CAD"
     },
     {
@@ -226,7 +226,7 @@
       "vin": "JM3KJEHA9T1207623",
       "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/new/cf0ae58e074b.html",
       "condition": "new",
-      "price": 69043.0,
+      "price": 69044.0,
       "price_currency": "CAD"
     },
     {
@@ -234,7 +234,7 @@
       "vin": "JM3KKCHA2T1386220",
       "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/new/aa44048d0269.html",
       "condition": "new",
-      "price": 58457.0,
+      "price": 58569.0,
       "price_currency": "CAD"
     },
     {
@@ -242,7 +242,7 @@
       "vin": "JM3KMAHA4T0116281",
       "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/new/068f645e1562.html",
       "condition": "new",
-      "price": 38582.0,
+      "price": 38694.0,
       "price_currency": "CAD"
     },
     {
@@ -250,7 +250,7 @@
       "vin": "JM3KJDHA4T1207510",
       "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/new/7ad39d88bb18.html",
       "condition": "new",
-      "price": 62643.0,
+      "price": 62644.0,
       "price_currency": "CAD"
     },
     {
@@ -258,7 +258,7 @@
       "vin": "JM3KKDHA6T1384282",
       "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/new/113959b46ec4.html",
       "condition": "new",
-      "price": 63493.0,
+      "price": 63494.0,
       "price_currency": "CAD"
     },
     {
@@ -266,7 +266,7 @@
       "vin": "JM3KMBHA6T0113307",
       "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/new/39890bf17719.html",
       "condition": "new",
-      "price": 41813.0,
+      "price": 41844.0,
       "price_currency": "CAD"
     },
     {
@@ -274,7 +274,7 @@
       "vin": "JM3KMBHA7T0126826",
       "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/new/b930aa3a9517.html",
       "condition": "new",
-      "price": 41713.0,
+      "price": 41744.0,
       "price_currency": "CAD"
     },
     {
@@ -282,7 +282,7 @@
       "vin": "JM3KMBHA9T0126505",
       "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/new/12e6dde99dc7.html",
       "condition": "new",
-      "price": 41713.0,
+      "price": 41744.0,
       "price_currency": "CAD"
     },
     {
@@ -290,7 +290,7 @@
       "vin": "JM3KMBHA3T0124555",
       "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/new/edb89b3c3fb9.html",
       "condition": "new",
-      "price": 41713.0,
+      "price": 41744.0,
       "price_currency": "CAD"
     },
     {
@@ -2176,7 +2176,7 @@
       "make": "Mazda3",
       "model": "Sport GS",
       "condition": "new",
-      "price": 35707.0,
+      "price": 35819.0,
       "price_currency": "CAD"
     },
     {
@@ -2187,7 +2187,7 @@
       "make": "Mazda3",
       "model": "GS",
       "condition": "new",
-      "price": 34957.0,
+      "price": 35069.0,
       "price_currency": "CAD"
     },
     {
@@ -2859,6 +2859,28 @@
       "model": "Sport GT",
       "condition": "new",
       "price": 37744.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Mazda3 GX",
+      "vin": "3MZBPABLXTM518147",
+      "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/new/e5b15b0e2ce4.html",
+      "year": 2026,
+      "make": "Mazda3",
+      "model": "GX",
+      "condition": "new",
+      "price": 28294.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Mazda3 GX",
+      "vin": "3MZBPABL4TM518287",
+      "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/new/928fe01c5def.html",
+      "year": 2026,
+      "make": "Mazda3",
+      "model": "GX",
+      "condition": "new",
+      "price": 27894.0,
       "price_currency": "CAD"
     }
   ]

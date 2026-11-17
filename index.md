@@ -1,6 +1,6 @@
 # Destination Mazda Vancouver
 
- dealership in Vancouver. AI-readable inventory mirror, about 315 vehicles.
+ dealership in Vancouver. AI-readable inventory mirror, about 317 vehicles.
 
 - Official website: https://www.destinationmazda.ca/en
 - Used vehicles: https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/used/
