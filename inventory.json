@@ -1,10 +1,82 @@
 {
   "dealership": "Destination Mazda Vancouver",
-  "generated_at": "2026-10-26T08:51:12",
-  "vehicle_count": 307,
+  "generated_at": "2026-11-17T09:19:38",
+  "vehicle_count": 315,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "Pre-Owned Vehicles",
+      "vin": "JM1BL1UF7D1756297",
+      "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/used/8181e99a01dd.html",
+      "condition": "used",
+      "price": 17995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Pre-Owned Vehicles",
+      "vin": "JM1BL1UF7D1756297",
+      "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/used/99cf93990350.html",
+      "condition": "used",
+      "price": 17995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Pre-Owned Vehicles",
+      "vin": "JM1BL1UF7D1756297",
+      "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/used/d372af56d518.html",
+      "condition": "used",
+      "price": 17995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Pre-Owned Vehicles",
+      "vin": "JM1BL1UF7D1756297",
+      "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/used/30aa70c0e6f1.html",
+      "condition": "used",
+      "price": 17995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Pre-Owned Vehicles",
+      "vin": "JM1BL1UF7D1756297",
+      "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/used/9288c82e4a52.html",
+      "condition": "used",
+      "price": 17995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Pre-Owned Vehicles",
+      "vin": "JM1BL1UF7D1756297",
+      "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/used/592013522907.html",
+      "condition": "used",
+      "price": 17995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Pre-Owned Vehicles",
+      "vin": "JM1BL1UF7D1756297",
+      "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/used/118dc7666690.html",
+      "condition": "used",
+      "price": 17995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Pre-Owned Vehicles",
+      "vin": "JM1BL1UF7D1756297",
+      "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/used/e3590f36eb53.html",
+      "condition": "used",
+      "price": 17995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Pre-Owned Vehicles",
+      "vin": "JM1BL1UF7D1756297",
+      "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/used/5d3503457d10.html",
+      "condition": "used",
+      "price": 17995.0,
+      "price_currency": "CAD"
+    },
     {
       "name": "Mazda2026 CX-90 Mild Hybrid Signature",
       "vin": "JM3KKEHCXT1367265",
@@ -1580,23 +1652,34 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2011 Acura TSX",
-      "vin": "JH4CU2F57BC800648",
-      "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/used/99cf93990350.html",
-      "year": 2011,
-      "make": "Acura",
-      "model": "TSX",
-      "condition": "used",
-      "price": 9995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2012 Mazda Mazda3",
       "vin": "JM1BL1V71C1621726",
       "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/used/c3b4b9033481.html",
       "year": 2012,
       "make": "Mazda",
       "model": "Mazda3",
+      "condition": "used",
+      "price": 10995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2013 Mazda Mazda3",
+      "vin": "JM1BL1UF7D1756297",
+      "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/used/76c5b12abe13.html",
+      "year": 2013,
+      "make": "Mazda",
+      "model": "Mazda3",
+      "condition": "used",
+      "price": 9995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2014 Mazda CX-5",
+      "vin": "JM3KE4DY0E0314828",
+      "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/used/d8508ec23b84.html",
+      "year": 2014,
+      "make": "Mazda",
+      "model": "CX-5",
       "condition": "used",
       "price": 10995.0,
       "price_currency": "CAD"
@@ -1610,6 +1693,17 @@
       "model": "CX-5",
       "condition": "used",
       "price": 18995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2017 Mazda Mazda3",
+      "vin": "JM1BN1T74H1151048",
+      "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/used/f3185e72f118.html",
+      "year": 2017,
+      "make": "Mazda",
+      "model": "Mazda3",
+      "condition": "used",
+      "price": 17495.0,
       "price_currency": "CAD"
     },
     {
@@ -1657,17 +1751,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Toyota RAV4",
-      "vin": "2T3BFREV1JW768325",
-      "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/used/9288c82e4a52.html",
-      "year": 2018,
-      "make": "Toyota",
-      "model": "RAV4",
-      "condition": "used",
-      "price": 16995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2019 MINI 3 Door",
       "vin": "WMWXM9C53K2H38834",
       "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/used/b0fb109eca1e.html",
@@ -1698,28 +1781,6 @@
       "model": "Mazda3",
       "condition": "used",
       "price": 16887.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Volkswagen Beetle",
-      "vin": "3VWSD7AT7KM707110",
-      "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/used/118dc7666690.html",
-      "year": 2019,
-      "make": "Volkswagen",
-      "model": "Beetle",
-      "condition": "used",
-      "price": 28995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Honda Civic Sedan",
-      "vin": "2HGFC2F57LH011451",
-      "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/used/30aa70c0e6f1.html",
-      "year": 2020,
-      "make": "Honda",
-      "model": "Civic Sedan",
-      "condition": "used",
-      "price": 21495.0,
       "price_currency": "CAD"
     },
     {
@@ -1774,7 +1835,40 @@
       "make": "Mazda",
       "model": "CX-5",
       "condition": "used",
-      "price": 28995.0,
+      "price": 27995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021 Mazda Mazda3 Sport",
+      "vin": "JM1BPAK71M1304247",
+      "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/used/c0559b04f79f.html",
+      "year": 2021,
+      "make": "Mazda",
+      "model": "Mazda3",
+      "condition": "used",
+      "price": 21995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021 Mazda Mazda3 Sport",
+      "vin": "JM1BPALL9M1347939",
+      "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/used/63528238fde1.html",
+      "year": 2021,
+      "make": "Mazda",
+      "model": "Mazda3",
+      "condition": "used",
+      "price": 22995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021 Mazda Mazda3 Sport",
+      "vin": "JM1BPAK72M1349908",
+      "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/used/7c8f9d37a7e1.html",
+      "year": 2021,
+      "make": "Mazda",
+      "model": "Mazda3",
+      "condition": "used",
+      "price": 22995.0,
       "price_currency": "CAD"
     },
     {
@@ -1786,6 +1880,17 @@
       "model": "RAV4",
       "condition": "used",
       "price": 39795.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2022 Mazda Mazda3",
+      "vin": "JM1BPBCL2N1510132",
+      "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/used/12ebe38baf79.html",
+      "year": 2022,
+      "make": "Mazda",
+      "model": "Mazda3",
+      "condition": "used",
+      "price": 24495.0,
       "price_currency": "CAD"
     },
     {
@@ -1844,28 +1949,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Mazda CX-5",
-      "vin": "JM3KFBEYXP0210415",
-      "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/used/d372af56d518.html",
-      "year": 2023,
-      "make": "Mazda",
-      "model": "CX-5",
-      "condition": "used",
-      "price": 36995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Mazda CX-5",
-      "vin": "JM3KFBEY9P0216173",
-      "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/used/e3590f36eb53.html",
-      "year": 2023,
-      "make": "Mazda",
-      "model": "CX-5",
-      "condition": "used",
-      "price": 31995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Mazda CX-50",
       "vin": "7MMVABDY3RN181125",
       "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/used/4fb0095ff80a.html",
@@ -1906,7 +1989,7 @@
       "make": "Mazda",
       "model": "CX-30",
       "condition": "used",
-      "price": 27995.0,
+      "price": 27495.0,
       "price_currency": "CAD"
     },
     {
@@ -1917,18 +2000,7 @@
       "make": "Mazda",
       "model": "CX-5",
       "condition": "used",
-      "price": 37995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Mazda CX-30",
-      "vin": "3MVDMBDM3RM637066",
-      "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/used/592013522907.html",
-      "year": 2024,
-      "make": "Mazda",
-      "model": "CX-30",
-      "condition": "used",
-      "price": 31995.0,
+      "price": 37495.0,
       "price_currency": "CAD"
     },
     {
@@ -1939,7 +2011,7 @@
       "make": "Mazda",
       "model": "CX-5",
       "condition": "used",
-      "price": 31995.0,
+      "price": 31895.0,
       "price_currency": "CAD"
     },
     {
@@ -1951,17 +2023,6 @@
       "model": "CX-90 MHEV",
       "condition": "used",
       "price": 34995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Subaru Crosstrek",
-      "vin": "JF2GUADC1R8255267",
-      "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/used/5d3503457d10.html",
-      "year": 2024,
-      "make": "Subaru",
-      "model": "Crosstrek",
-      "condition": "used",
-      "price": 27995.0,
       "price_currency": "CAD"
     },
     {
@@ -2031,17 +2092,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Mazda CX-30",
-      "vin": "3MVDMBDY0SM807442",
-      "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/used/8181e99a01dd.html",
-      "year": 2025,
-      "make": "Mazda",
-      "model": "CX-30",
-      "condition": "used",
-      "price": 37995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Mazda CX-5",
       "vin": "JM3KFBCL2S0706406",
       "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/used/3596b579629f.html",
@@ -2049,7 +2099,7 @@
       "make": "Mazda",
       "model": "CX-5",
       "condition": "used",
-      "price": 32995.0,
+      "price": 31995.0,
       "price_currency": "CAD"
     },
     {
@@ -2075,6 +2125,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2025 Mazda Mazda3 Sport",
+      "vin": "JM1BPAKM3S1778798",
+      "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/used/04e91a60832f.html",
+      "year": 2025,
+      "make": "Mazda",
+      "model": "Mazda3",
+      "condition": "used",
+      "price": 24995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2025 Nissan Sentra",
       "vin": "3N1AB8CVXSY273835",
       "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/used/d8a913f6da24.html",
@@ -2093,7 +2154,7 @@
       "make": "Mazda",
       "model": "CX-90 MHEV",
       "condition": "used",
-      "price": 57995.0,
+      "price": 56995.0,
       "price_currency": "CAD"
     },
     {
