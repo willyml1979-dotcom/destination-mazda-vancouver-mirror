@@ -1,7 +1,7 @@
 {
   "dealership": "Destination Mazda Vancouver",
-  "generated_at": "2026-11-18T10:48:15",
-  "vehicle_count": 320,
+  "generated_at": "2026-11-18T20:17:17",
+  "vehicle_count": 321,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -111,19 +111,21 @@
     },
     {
       "name": "Pre-Owned Vehicles",
-      "vin": "JM1BL1UF7D1756297",
-      "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/used/8181e99a01dd.html",
-      "condition": "used",
-      "price": 17995.0,
-      "price_currency": "CAD"
+      "vin": "JM3KE4DY0E0314828",
+      "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/used/0e7495bf4079.html",
+      "condition": "used"
     },
     {
       "name": "Pre-Owned Vehicles",
-      "vin": "JM1BL1UF7D1756297",
+      "vin": "JM3KE4DY0E0314828",
+      "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/used/8181e99a01dd.html",
+      "condition": "used"
+    },
+    {
+      "name": "Pre-Owned Vehicles",
+      "vin": "JM3KE4DY0E0314828",
       "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/used/99cf93990350.html",
-      "condition": "used",
-      "price": 17995.0,
-      "price_currency": "CAD"
+      "condition": "used"
     },
     {
       "name": "Pre-Owned Vehicles",
@@ -135,11 +137,9 @@
     },
     {
       "name": "Pre-Owned Vehicles",
-      "vin": "JM1BL1UF7D1756297",
+      "vin": "JM3KE4DY0E0314828",
       "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/used/d372af56d518.html",
-      "condition": "used",
-      "price": 17995.0,
-      "price_currency": "CAD"
+      "condition": "used"
     },
     {
       "name": "Pre-Owned Vehicles",
@@ -228,6 +228,12 @@
       "condition": "used",
       "price": 17995.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "Pre-Owned Vehicles",
+      "vin": "JM3KE4DY0E0314828",
+      "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/used/76c5b12abe13.html",
+      "condition": "used"
     },
     {
       "name": "Mazda2026 CX-90 Mild Hybrid Signature",
@@ -1795,17 +1801,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2013 Mazda Mazda3",
-      "vin": "JM1BL1UF7D1756297",
-      "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/used/76c5b12abe13.html",
-      "year": 2013,
-      "make": "Mazda",
-      "model": "Mazda3",
-      "condition": "used",
-      "price": 9995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2014 Mazda CX-5",
       "vin": "JM3KE4DY0E0314828",
       "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/used/d8508ec23b84.html",
@@ -1817,6 +1812,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2016 Mazda Mazda3",
+      "vin": "3MZBM1L71GM297733",
+      "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/used/22cbc18c9bae.html",
+      "year": 2016,
+      "make": "Mazda",
+      "model": "Mazda3",
+      "condition": "used",
+      "price": 13995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2017 Mazda Mazda3",
       "vin": "JM1BN1T74H1151048",
       "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/used/f3185e72f118.html",
@@ -1824,7 +1830,7 @@
       "make": "Mazda",
       "model": "Mazda3",
       "condition": "used",
-      "price": 17495.0,
+      "price": 16995.0,
       "price_currency": "CAD"
     },
     {
@@ -1890,7 +1896,7 @@
       "make": "Mazda",
       "model": "Mazda3",
       "condition": "used",
-      "price": 21995.0,
+      "price": 21495.0,
       "price_currency": "CAD"
     },
     {
@@ -1934,7 +1940,7 @@
       "make": "Toyota",
       "model": "RAV4",
       "condition": "used",
-      "price": 39795.0,
+      "price": 37495.0,
       "price_currency": "CAD"
     },
     {
@@ -1968,17 +1974,6 @@
       "model": "CX-30",
       "condition": "used",
       "price": 26995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Mazda CX-5",
-      "vin": "JM3KFBDM0P0138560",
-      "url": "https://willyml1979-dotcom.github.io/destination-mazda-vancouver-mirror/used/0e7495bf4079.html",
-      "year": 2023,
-      "make": "Mazda",
-      "model": "CX-5",
-      "condition": "used",
-      "price": 34995.0,
       "price_currency": "CAD"
     },
     {
@@ -2055,7 +2050,7 @@
       "make": "Mazda",
       "model": "CX-5",
       "condition": "used",
-      "price": 30995.0,
+      "price": 29995.0,
       "price_currency": "CAD"
     },
     {
@@ -2110,7 +2105,7 @@
       "make": "Nissan",
       "model": "Sentra",
       "condition": "used",
-      "price": 22495.0,
+      "price": 20995.0,
       "price_currency": "CAD"
     },
     {
